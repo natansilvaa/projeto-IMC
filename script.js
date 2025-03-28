@@ -39,4 +39,16 @@ function imc () {
     }
 }
 
+
+
+function limp() {
+    document.getElementById('nome').value = '';
+    document.getElementById('altura').value = '';
+    document.getElementById('peso').value = '';
+    document.getElementById('resultado').textContent = '';
+}
+
+
+
 calcular.addEventListener('click', imc)
+document.getElementById('limpar').addEventListener('click', limp);

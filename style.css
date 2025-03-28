@@ -67,7 +67,9 @@ main{
     outline: none;
     border-radius: 5px;
     cursor: pointer;
+   margin: 5px;
  }
+
  .ressul{
     display: flex;
     margin-top: 20px;
