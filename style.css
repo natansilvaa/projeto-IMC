@@ -12,8 +12,6 @@ body{
     
 }
 
-
-
 main{
     display: flex;
     justify-content: center;
@@ -28,7 +26,7 @@ main{
 .container{
     display: flex;
     flex-direction: column;
-    background-color: rgb(255, 198, 0);
+    background-color: rgb(204, 155, 233);
     width: 380px;
     height: 600px;
     align-items: center;
