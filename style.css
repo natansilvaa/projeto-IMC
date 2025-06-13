@@ -32,8 +32,8 @@ main{
     align-items: center;
     justify-content: center;
     border-radius: 20px;
-    box-shadow: 0 0 10px;
-}
+    box-shadow: #86799c50  5px 10px;
+    
 
 .title{
     display: flex;
